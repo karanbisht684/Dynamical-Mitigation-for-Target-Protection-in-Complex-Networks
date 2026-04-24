@@ -36,7 +36,7 @@ plt.rcParams.update({
 # Load LastFM Network
 # =====================================================
 
-file_path = '/Users/joeljohny/Desktop/Complex systems/lastfm_asia_edges.csv'
+file_path = 'paste data path here'
 
 df = pd.read_csv(file_path)
 
