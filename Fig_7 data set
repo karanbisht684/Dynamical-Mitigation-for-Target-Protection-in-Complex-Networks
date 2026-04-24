@@ -1,0 +1,21 @@
+#Fig 7 data
+
+phi=0.01 | T_prot=0.951 | T_noProt=0.001 | CR=0.222 | K=0.483
+phi=0.02 | T_prot=0.951 | T_noProt=0.001 | CR=0.222 | K=0.483
+phi=0.03 | T_prot=0.951 | T_noProt=0.001 | CR=0.222 | K=0.483
+phi=0.04 | T_prot=0.951 | T_noProt=0.001 | CR=0.221 | K=0.483
+phi=0.05 | T_prot=0.959 | T_noProt=0.001 | CR=0.206 | K=0.483
+phi=0.06 | T_prot=0.965 | T_noProt=0.001 | CR=0.180 | K=0.483
+phi=0.07 | T_prot=0.981 | T_noProt=0.101 | CR=0.145 | K=0.483
+phi=0.08 | T_prot=0.988 | T_noProt=0.287 | CR=0.097 | K=0.483
+phi=0.09 | T_prot=0.993 | T_noProt=0.493 | CR=0.067 | K=0.483
+phi=0.10 | T_prot=0.996 | T_noProt=0.599 | CR=0.033 | K=0.483
+phi=0.11 | T_prot=0.998 | T_noProt=0.889 | CR=0.008 | K=0.483
+phi=0.12 | T_prot=1.000 | T_noProt=0.995 | CR=0.002 | K=0.483
+phi=0.13 | T_prot=1.000 | T_noProt=0.999 | CR=0.000 | K=0.483
+phi=0.14 | T_prot=1.000 | T_noProt=0.999 | CR=0.000 | K=0.483
+phi=0.15 | T_prot=1.000 | T_noProt=0.999 | CR=0.000 | K=0.483
+phi=0.16 | T_prot=1.000 | T_noProt=0.999 | CR=0.000 | K=0.483
+phi=0.17 | T_prot=1.000 | T_noProt=1.000 | CR=0.000 | K=0.483
+phi=0.18 | T_prot=1.000 | T_noProt=1.000 | CR=0.000 | K=0.483
+phi=0.19 | T_prot=1.000 | T_noProt=1.000 | CR=0.000 | K=0.483
