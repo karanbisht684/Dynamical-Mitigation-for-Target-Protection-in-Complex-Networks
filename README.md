@@ -1,2 +1,3 @@
 # Dynamical-Mitigation-for-Target-Protection-in-Complex-Networks
-This repo includes all the codes and data sets that can be used to reproduce the work  "Dynamical Mitigation for Target Protection in Complex Networks". 
+
+This repository contains the code to reproduce the results of the paper " Dynamical Mitigation for Target Protection in Complex Networks". All the codes and data sets are listed with their respective figure numbers.
